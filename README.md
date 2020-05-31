@@ -47,4 +47,4 @@ Please report questions, issues and suggestions using:
 * [Gitter](https://gitter.im/open_model_zoo/community)
 
 ---
-\* Other names and brands may be claimed as the property of others.
+\* Other names and brands may be claimed as the property of others..
